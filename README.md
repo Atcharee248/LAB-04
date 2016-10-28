@@ -72,7 +72,8 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 บันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
+<br> ขึ้นหน้าต่างใหม่ hello<br>
+<img src="https://github.com/Atcharee248/LAB-04/blob/master/imgs/lab4_2.JPG?raw=true">
 <hr>
 <hr>
 <hr>
@@ -83,7 +84,8 @@
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
+<br> ขึ้นหน้าต่างใหม่มีคำว่า hello กับ world คนละบรรทัด <br>
+<img src="https://github.com/Atcharee248/LAB-04/blob/master/imgs/lab4_3.JPG?raw=true">
 <hr>
 <hr>
 <hr>
@@ -92,7 +94,7 @@
 ###คำถาม 4.2
 
 ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร  จงอธิบาย
-<hr>
+<br> เป็นอย่างที่คิดเพราะ คำว่า hello กับ world อยู่คนละบรรทัดกัน
 <hr>
 <hr>
 <hr>
@@ -101,7 +103,8 @@
 ### คำถาม 4.3 
 
 จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
-<hr>
+<br> คำสั่ง Console.Write() คำที่แสดงขึ้นมาจะอยู่บรรทัดเดียวกัน <br>
+แต่ Console.WriteLine() คำที่โชว์ขึ้นมาจะแสดงอยู่คนละบรรทัด
 <hr>
 <hr>
 <hr>
@@ -109,7 +112,7 @@
 
 ##สรุปผลการทดลอง
 
-<hr>
+<br>จากการทดลองการใช้คำสั่ง Console.WriteLine("Hello"); จะทำให้โชว์หน้าต่างใหม่ และแสดงคำว่า Hello
 <hr>
 <hr>
 <hr>
